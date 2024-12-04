@@ -1,7 +1,3 @@
-//OOOOOOOOOKKKKKKKKKKKKKK!!!!!!!!!!!!
-//OOOOOOOOOKKKKKKKKKKKKKK!!!!!!!!!!!!
-//Candy!!!!!
-
 // function sumOfSmallestValues(arr) {
 //   return arr[1] + arr[3];
 // }
